@@ -7,7 +7,6 @@ import {
   MouseEventHandler,
   TouchEvent,
   TouchEventHandler,
-  useEffect,
 } from 'react';
 import styled from 'styled-components';
 
