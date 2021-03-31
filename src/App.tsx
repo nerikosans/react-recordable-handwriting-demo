@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import { FC } from 'react';
 
 import Handwriting from './Handwriting';
